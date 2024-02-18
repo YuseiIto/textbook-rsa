@@ -4,10 +4,16 @@ A simple implementation of Textbook RSA, intended as a toy project for learning 
 
 ## Table of Contents
 
+- [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Requirements
+
+- Rust
+- Cargo
 
 ## Installation
 
